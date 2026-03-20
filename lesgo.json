@@ -1,21 +1,21 @@
 {
-    "version": "1.1.1",
+    "version": "1.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/XplnHUB/Les-Go/releases/download/v1.1.1/Les-Go_1.1.1_windows_amd64.zip",
+            "url": "https://github.com/XplnHUB/Les-Go/releases/download/v1.2.0/Les-Go_1.2.0_windows_amd64.zip",
             "bin": [
                 "lesgo.exe",
                 "server_bin.exe"
             ],
-            "hash": "39020ae2384463eb96dd462cd0ba0e7b8e0f2d939933a904460fedbb4fa51913"
+            "hash": "4d65a671221f00bde86c722a717320fdda232e3cbfd5ee769e021f3a86dc4c53"
         },
         "arm64": {
-            "url": "https://github.com/XplnHUB/Les-Go/releases/download/v1.1.1/Les-Go_1.1.1_windows_arm64.zip",
+            "url": "https://github.com/XplnHUB/Les-Go/releases/download/v1.2.0/Les-Go_1.2.0_windows_arm64.zip",
             "bin": [
                 "lesgo.exe",
                 "server_bin.exe"
             ],
-            "hash": "6f81d118401517ad0c6abd383350583eee7e29b6e14bad06c7a270036b0e3e32"
+            "hash": "17ebeec7b013ae225045a5e0a479c70aafcd455146d13127fe7778fffb8f1e7c"
         }
     },
     "homepage": "https://github.com/XplnHUB/Les-Go",
